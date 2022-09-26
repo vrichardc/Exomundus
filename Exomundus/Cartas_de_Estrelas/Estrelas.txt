@@ -1,0 +1,207 @@
+18 estrelas
+
+Mo,Ro = 1.19819*10^30kg,6.96*10^8m
+
+1-Betelgeuse
+Nome x : Alpha Orionis 
+Massa:14Mo
+Raio:887±203Ro
+Temperatura:3600K
+Tipo: supergigante vermelha
+Informação: é uma estrela de brilho variável sendo a 10ª ou 12ª estrela mais brilhante das que podem ser vistas da Terra. É também a segunda estrela mais brilhante na constelação de Orion.
+constelação de órion
+
+2-Vega
+Nome x : Aplha Lyrae
+Massa:2.157±0.017Mo
+Raio equatorial:2.818±0.013Ro
+Raio polar = 2.362±0.021Ro
+Temperatura equatorial: 8152±42K
+Temperatura polar: 10059±13K
+Idade:6x10^6 anos
+Tipo = ?
+Informação: é a estrela mais brilhante da constelação de Lira e a quinta estrela mais brilhante do céu noturno
+constelação de lira
+
+3-Rígel 
+Nome x : Beta Orionis
+Massa:18Mo
+Raio = 73Ro
+Temperatura: 11500K
+Tipo: supergigante azul
+Informação: é a estrela mais brilhante da constelação de Orion, e a sétima mais brilhante do céu
+constelação de orion
+
+4-Sirius A
+Nome x : alpha Canis Majoris
+Massa = 2.063± 0.023Mo
+Raio = 1.7144± 0.0090Ro
+Temperatura = 9845 ± 64K
+Idade: 237-247x10^6 anos
+Informação: é a estrela mais brilhante do céu noturno visível a olho nu. Estrela binária. 
+Constelação do cão maior
+
+5-Sirius B
+Nome x : alpha Canis Majoris
+Massa = 1.018±0.011Mo
+Raio = 0.008098±0.000013Ro
+Temperatura = 25369±46K
+Idade: 226x10^6 anos
+Informação: é a estrela mais brilhante do céu noturno visível a olho nu. Estrela binária 
+Constelação do cão maior
+
+6-Antares
+Nome x : Alpha Scorpii
+Massa = 15.5Mo
+Raio = 883Ro
+Temperatura = 3500K
+Idade = 8x10^6 anos
+Tipo = supergigante vermelha
+Informação:  É a 16.ª estrela mais brilhante do céu noturno. 
+Constelação de escorpião
+
+7-Proxima Centauri
+Nome x : Alpha Centauri C
+Massa = 0.12Mo
+Raio = 0.15Ro
+Temperatura = 2670K
+Idade = 1x10^9
+Tipo = anã vermelha
+Informação: Estrela mais próxima ao Sol. 
+Constelação do centauro
+
+8-Mintaka 
+Nome x : Delta Orionis
+Massa = 20Mo
+Raio = ? Ro
+Temperatura = 33000K
+Idade = 3-6x10^6 anos
+Informação: Delta Orionis forma o cinturão de Orion, conhecido popularmente como "As Três Marias"
+constelação de órion
+
+9-Alnilam
+Nome x : Epsilon Orionis
+Massa = 40Mo
+Raio = 26Ro
+Temperatura = 25000K
+Idade = 4x10^6 anos
+Tipo:supergigante azul-branca
+Informação: Epsilon Orionis forma o cinturão de Orion, conhecido popularmente como "As Três Marias"
+constelação de órion
+
+10-Alnitak 
+Nome x : Zeta Orionis
+Massa = 28-32 Mo
+Raio = 20-? Ro
+Temperatura = 24000-30000K 
+Idade = ?
+Tipo: supergigante azul
+Informação: Zeta Orionis forma o cinturão de Orion, conhecido popularmente como "As Três Marias"
+constelação de órion
+
+11-Capella Aa
+Nome x : Alpha Aurigae
+Massa = 2.5687±0.0074Mo
+Raio = 11.98±0.57Ro
+Temperatura = 4970±50K
+Idade = 590-650 x10^6 anos
+Informação: é a estrela mais brilhante da constelação do Cocheiro e a sexta mais brilhante do céu. Estrela binária
+constelação do cocheiro
+
+12-Capella Ab
+Nome x : Alpha Aurigae
+Massa = 2.4828±0.0067Mo
+Raio = 8.83±0.33Ro
+Temperatura = 5730±60K
+Idade = 590-650 x10^6 anos
+Informação: é a estrela mais brilhante da constelação do Cocheiro e a sexta mais brilhante do céu. Estrela binária
+constelação do cocheiro
+
+13-Canopus
+Nome x : Alpha Carinae
+Massa = 8.0±0.3Mo
+Raio = 71±0.4Ro
+Temperatura = 6998K
+Idade = 40 x10^6 anos
+Tipo = supergigante branco-amarelada
+Informação:é a estrela mais brilhante da constelação de Carina e a segunda estrela mais brilhante no céu
+constelação de Carina
+
+14-Alpha Carinae A
+Nome x : α1 Crucis
+Massa = 14±10Mo
+Raio = ?Ro
+Temperatura = 30000K
+Idade = ? anos
+Tipo = ?
+Informação: é também a 13ª estrela mais brilhante do céu. Estrela binaria
+constelação do cruzeiro do sul
+
+15-Alpha Carinae B
+Nome x : α2 Crucis
+Massa = 13Mo
+Raio = ?Ro
+Temperatura = 27000K
+Idade = ? anos
+Tipo = ?
+Informação: é também a 13ª estrela mais brilhante do céu. Estrela binaria
+constelação do cruzeiro do sul
+
+
+16-Gacrux  
+Nome X : Gamma Crucis
+Massa = 1.5±0.3Mo
+Raio = 84±7Ro
+Temperatura = 3630±90K
+Tipo = gigante vermelha
+Informações: é a terceira estrela mais brilhante da constelação de Crux (Cruzeiro do Sul) e a 24ª mais brilhante do céu noturno
+constelação do cruzeiro do sul
+
+17-Pálida
+Nome X : Delta Crucis
+Massa = 8.9±0.1Mo
+Raio = 4.9Ro
+Temperatura = 22570±1840K
+Tipo = gigante vermelha
+Idade = 18.1±3.2 x10^6 anos
+Informações: é a menos brilhante das quatro principais estrelas que compõem o proeminente asterismo do Cruzeiro do Sul.
+constelação do cruzeiro do sul
+
+18-Ginan
+Nome X : Epsilon Crucis
+Massa = 1.5+-0.2Mo
+Raio = 28.41±1.41Ro
+Temperatura = 4294-33K
+Tipo = gigante laranja
+Idade = 2.17±0.73 x10^9 anos
+Informações: é a quinta estrela mais brilhante da constelação do cruzeiro do sul
+constelação do cruzeiro do sul
+
+
+Ref:
+1-https://pt.wikipedia.org/wiki/Betelgeuse
+2-https://pt.wikipedia.org/wiki/Vega_(estrela)
+3-https://pt.wikipedia.org/wiki/R%C3%ADgel
+4-https://pt.wikipedia.org/wiki/Sirius
+5-https://pt.wikipedia.org/wiki/Sirius
+6-https://pt.wikipedia.org/wiki/Antares
+7-https://pt.wikipedia.org/wiki/Proxima_Centauri
+8-https://pt.wikipedia.org/wiki/Delta_Orionis
+9-https://pt.wikipedia.org/wiki/Epsilon_Orionis
+10-https://pt.wikipedia.org/wiki/Zeta_Orionis
+11-https://pt.wikipedia.org/wiki/Capella_(estrela)
+12-https://pt.wikipedia.org/wiki/Capella_(estrela)
+13-https://pt.wikipedia.org/wiki/Canopus
+14-https://pt.wikipedia.org/wiki/Acrux
+15-https://pt.wikipedia.org/wiki/Acrux
+16-https://pt.wikipedia.org/wiki/Gacrux
+17-https://pt.wikipedia.org/wiki/Delta_Crucis
+18-https://pt.wikipedia.org/wiki/Epsilon_Crucis
+
+
+
+
+
+
+
+
